@@ -22,7 +22,7 @@ public class ForEachLoopDemoProgram {
     
     
     }
-    * */
+    **/
     
        
     //for each loop demo program    
